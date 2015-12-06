@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "homepage": "https://github.com/marco2106/example",
+  "authors": [
+    "Marco <marco.csalerno@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "modernizr": "~3.2.0"
+  }
+}
